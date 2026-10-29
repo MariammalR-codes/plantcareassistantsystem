@@ -1,0 +1,5 @@
+Bud_Root_Dropping
+Bud_Rot
+Gray_Leaf_Spot
+Leaf_Rot
+Stem_Bleeding

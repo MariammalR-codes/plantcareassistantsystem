@@ -1,0 +1,5 @@
+Alternaria_Leaf
+Bacterial_Blight
+Fusarium_Wilt
+Healthy_Leaf
+Verticillium_Wilt
